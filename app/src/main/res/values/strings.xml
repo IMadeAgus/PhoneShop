@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">PhoneShop</string>
+    <string name="phones_name">Nama Handphone</string>
+    <string name="price">Harga</string>
+    <string name="price_format">Rp %d</string>
+    <string name="description">Deskripsi</string>
+    <string name="profile">Profile</string>
+    <string name="profil">Profil</string>
+    <string name="name">I Made Agus Budiarta</string>
+    <string name="email">agsmade@gmail.com</string>
+    <string name="contact">089637515970</string>
+    <string name="address">Jl. Teratai no 29</string>
+    <string name="dummy_photos">6 photos</string>
+    <string name="buy">Beli</string>
+    <string name="share">Bagikan</string>
+    <string-array name="data_name">
+        <item>Poco F6</item>
+        <item>Poco M6</item>
+        <item>Poco_X6 </item>
+        <item>Poco X6 Pro</item>
+        <item>Redmi 12 Pro</item>
+        <item>Redmi 13 C</item>
+        <item>Redmi Note 13</item>
+        <item>Redmi Note 13 Pro</item>
+        <item>ROG Phone 8</item>
+        <item>Zenfone 11 Ultra</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>POCO F6 hadir dengan performa luar biasa dan harga yang terjangkau! Ditenagai prosesor Snapdragon terbaru, layar AMOLED 120Hz yang jernih, dan baterai tahan lama, POCO F6 dirancang untuk mendukung multitasking, gaming, dan hiburan tanpa hambatan. Dengan kamera 64MP, Anda bisa mengambil foto berkualitas profesional di berbagai kondisi. Nikmati pengalaman flagship dengan harga yang tak terkalahkan!</item>
+        <item>POCO M6 hadir dengan performa handal dan harga bersahabat! Didukung prosesor Snapdragon 695, layar FHD+ 90Hz yang mulus, dan baterai 5000mAh yang tahan seharian. Dengan kamera 50MP, Anda bisa mengabadikan momen terbaik dengan mudah. Cocok untuk kebutuhan sehari-hari, gaming ringan, dan hiburan nonstop. POCO M6, smartphone andalan dengan harga terjangkau!</item>
+        <item>POCO X6 , smartphone canggih dengan kecepatan 5G untuk pengalaman terbaik! Ditenagai prosesor Snapdragon 7 Gen 1, layar AMOLED 120Hz yang tajam, dan baterai 5000mAh yang awet. Dengan kamera utama 64MP, hasil foto Anda akan selalu jernih dan detail. Cocok untuk gaming, multitasking, dan streaming cepat tanpa hambatan. POCO X6 5G, kecepatan dan performa flagship dalam genggaman Anda!</item>
+        <item>POCO X6 Pro, smartphone dengan performa flagship dan fitur lengkap! Ditenagai prosesor Snapdragon 8+ Gen 1, layar AMOLED 120Hz super jernih, dan baterai 5000mAh dengan pengisian cepat 67W. Nikmati pengalaman gaming mulus, multitasking tanpa hambatan, dan visual menakjubkan. Kamera 108MP-nya menghasilkan foto dan video profesional dengan detail yang tajam. POCO X6 Pro, kekuatan maksimal dengan harga yang kompetitif!</item>
+        <item>Redmi 12 Pro hadir dengan performa unggulan dan fitur premium! Ditenagai prosesor MediaTek Dimensity 1080, layar AMOLED 120Hz yang tajam, dan baterai besar 5000mAh dengan pengisian cepat 67W. Kamera 50MP dengan OIS (Optical Image Stabilization) memastikan foto dan video selalu jernih dan stabil. Sempurna untuk gaming, fotografi, dan multitasking sehari-hari. Redmi 12 Pro, smartphone pintar dengan kualitas tinggi dan harga bersahabat!</item>
+        <item>Redmi 13C adalah smartphone yang dirancang untuk memenuhi kebutuhan sehari-hari dengan performa yang handal. Ditenagai oleh prosesor MediaTek Helio G85, perangkat ini menawarkan kinerja yang responsif untuk multitasking dan gaming ringan. Layar besar HD+ memberikan pengalaman visual yang memuaskan, sementara baterai 5000mAh memastikan daya tahan yang lama. Dengan kamera belakang ganda 13MP, Anda dapat menangkap momen berharga dengan mudah. Redmi 13C, solusi tepat untuk kebutuhan komunikasi dan hiburan Anda tanpa merusak anggaran!</item>
+        <item>Redmi Note 13C hadir dengan kombinasi sempurna antara kinerja dan fitur yang memikat! Ditenagai oleh prosesor MediaTek Dimensity 6100+, smartphone ini menawarkan performa cepat untuk multitasking dan gaming. Layar AMOLED 120Hz yang menawan memberikan pengalaman visual yang luar biasa, sementara baterai 5000mAh dengan pengisian cepat memastikan Anda tetap terhubung sepanjang hari. Dengan kamera utama 108MP dan fitur fotografi canggih, hasil foto Anda akan selalu tajam dan detail. Redmi Note 13C, pilihan ideal untuk mereka yang menginginkan performa maksimal dan inovasi dalam genggaman!</item>
+        <item>RRedmi Note 13 Pro adalah smartphone premium yang dirancang untuk memberikan performa dan fitur terbaik! Ditenagai oleh prosesor Snapdragon 7 Gen 1, perangkat ini menawarkan kecepatan luar biasa untuk multitasking dan gaming. Layar AMOLED 120Hz yang cerah dan responsif memberikan pengalaman visual yang memukau, sementara baterai 5000mAh dengan pengisian cepat 67W memastikan Anda tidak kehabisan daya saat beraktivitas. Dengan sistem kamera 108MP, Anda dapat menangkap foto dan video berkualitas tinggi dengan detail yang tajam.</item>
+        <item>ROG Phone 8 adalah smartphone gaming terdepan yang dirancang untuk pengalaman bermain yang tak tertandingi! Ditenagai oleh prosesor Snapdragon 8 Gen 2, ROG Phone 8 menawarkan performa ultra cepat dan responsif. Layar AMOLED 165Hz yang super mulus memberikan visual yang memukau dan pengalaman gaming yang imersif. Dengan sistem pendingin yang canggih dan baterai 6000mAh yang tahan lama, Anda dapat bermain tanpa gangguan sepanjang hari. Dilengkapi dengan sistem audio premium dan kontrol gaming yang ergonomis, ROG Phone 8 adalah pilihan sempurna bagi para gamer sejati yang menginginkan performa terbaik dalam genggaman tangan!</item>
+        <item>Zenfone 11 Ultra adalah smartphone premium yang menawarkan performa dan inovasi terdepan! Ditenagai oleh prosesor Snapdragon 8+ Gen 1, Zenfone 11 Ultra memberikan kecepatan dan efisiensi untuk multitasking dan gaming yang intens. Layar AMOLED 120Hz yang luas menyajikan visual yang cerah dan tajam, sementara baterai 5000mAh dengan pengisian cepat memastikan Anda tetap terhubung sepanjang hari. Dengan sistem kamera utama 200MP, Anda dapat mengambil foto berkualitas tinggi dengan detail yang menakjubkan, serta berbagai fitur fotografi canggih. Zenfone 11 Ultra adalah pilihan ideal bagi mereka yang menginginkan kombinasi sempurna antara performa, desain, dan kemampuan fotografi!</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/poco_f6</item>
+        <item>@drawable/poco_m6</item>
+        <item>@drawable/poco_x65g</item>
+        <item>@drawable/poco_x6pro5g</item>
+        <item>@drawable/redmi_12pro</item>
+        <item>@drawable/redmi_13c</item>
+        <item>@drawable/redmi_note13</item>
+        <item>@drawable/redmi_note13pro</item>
+        <item>@drawable/rog_phone8</item>
+        <item>@drawable/zenfone_11ultra</item>
+    </integer-array>
+    <integer-array name="data_price">
+        <item>1899000</item>
+        <item>5445000</item>
+        <item>3549000</item>
+        <item>4549000</item>
+        <item>1280000</item>
+        <item>1156000</item>
+        <item>2399000</item>
+        <item>3499000</item>
+        <item>10848000</item>
+        <item>13999000</item>
+    </integer-array>
+
+</resources>
